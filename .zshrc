@@ -108,4 +108,4 @@ alias ls="ls -a -h -o -G"
 alias gitlog="git log --graph --oneline --decorate --all"
 
 export LPASS_USERNAME="sobolevski.a@gmail.com"
-alias get_pass="~/bin/lastpass"
+alias get_pass="~/lastpass"
