@@ -10,7 +10,7 @@
 	{ "keys": ["super+ctrl+l"], "command": "move", "args": {"by": "characters", "forward": true} },
 
 	{ "keys": ["shift+ctrl+j"], "command": "move", "args": {"by": "words", "extend": true, "forward": false} },
-	{ "keys": ["shift+ctrl+l"], "command": "move", "args": {"by": "words", "extend": true, "forward": true} },
+	{ "keys": ["shift+ctrl+l"], "command": "move", "args": {"by": "word_ends", "extend": true, "forward": true} },
 	{ "keys": ["shift+ctrl+i"], "command": "move", "args": {"by": "lines", "extend": true, "forward": false} },
 	{ "keys": ["shift+ctrl+k"], "command": "move", "args": {"by": "lines", "extend": true, "forward": true} },
 
