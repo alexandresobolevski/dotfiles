@@ -100,9 +100,9 @@ source $ZSH/oh-my-zsh.sh
 
 # Custom
 # zsh config
-alias zsh_config="mate ~/.zshrc"
+alias zsh_config="mat ~/.zshrc"
 alias ohmyzsh="mate ~/.oh-my-zsh"
-alias zsh_edit="atom ~/.zshrc"
+alias zsh_edit="code ~/.zshrc"
 alias zsh_source="source ~/.zshrc"
 alias ls="ls -a -h -o -G"
 alias gitlog="git log --graph --oneline --decorate --all"
